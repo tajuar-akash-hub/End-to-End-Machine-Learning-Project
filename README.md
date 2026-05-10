@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ```bash
 
 
-export MONGODB_URL="mongodb+srv://entbappy:entbappy@cluster0.3lowor9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+
 
 export AWS_ACCESS_KEY_ID=<AWS_ACCESS_KEY_ID>
 
