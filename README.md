@@ -37,9 +37,7 @@
 
 ## How to run?
 
-```bash
-git clone [https://github.com/entbappy/End-to-End-Machine-Learning-Project-Implementation](https://github.com/tajuar-akash-hub/End-to-End-Machine-Learning-Project.git)
-```
+
 
 ```bash
 conda create -n visa python=3.8 -y
